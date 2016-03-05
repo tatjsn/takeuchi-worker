@@ -1,0 +1,34 @@
+{
+  "name": "takeuchi-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tatjsn <tatjsn@gmail.com> (https://github.com/tatjsn/)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.6.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.6.0",
+    "cheerio": "^0.20.0",
+    "firebase": "^2.4.1",
+    "node-fetch": "^1.3.3"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.6.1",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "react": "^0.14.7",
+    "react-d3-basic": "^1.6.9",
+    "react-dom": "^0.14.7",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1",
+    "redux-thunk": "^1.0.3",
+    "webpack-stream": "^3.1.0"
+  }
+}
